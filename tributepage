@@ -1,0 +1,54 @@
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" />
+<div class="container-fluid">
+  <div class=row>
+    <div class="col-md-6 col-md-offset-3">
+
+      <div class="center-block">
+        <style>
+          #title{
+            text-align:center;
+            background-color:gold;
+             }
+          #blurb{
+            text-align:center;
+              background-color:white;
+     }
+          ul{
+            text-align:left;
+            color:black;
+            background-color:grey;
+          }
+        </style>
+
+        <body style="background-color:navy">
+          <div id="title">
+            <h1><B> Admiral Hyman G. Rickover</b></h1>
+          </div>
+          <center> <img class="img-responsive thumbnail" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Hyman_Rickover_1955.jpg" height="200px" width="300px">
+          </center>
+          <div id="blurb">
+            <h2>The father of the Nuclear Navy</h2>
+          </div>
+      </div>
+    </div>
+          <div class="col-md-6 col-md-offset-3">
+       <ul text-align="center">
+         Born: January 27, 1900 in Poland
+</br> Died: July 8, 1986 in Virginia USA
+</br> 1906 Made voyage to America
+</br>1922 Graduated from the Naval Academy, stationed on the La Vallette
+</br>1929-1933 Qualified for submarine duty and command
+</br> 1937 Assumed command of his only ship a minesweeper named Finch for 3 months
+</br>During WWII he helped in numorus places with ship repair, had a reputation for "getting stuff done"
+</br>1946 Selceted as dupty manager for a Manhattan Project to make a nuclear power plant for a ship
+</br> 1947 Went directly to Admiral Chester Nimitz and proposed the idea of nuclear powered ships, after seeing the potential Nimitz then presented the idea to the Secretary of the Navy who greenlighted the idea. This lead to the construction of the worlds first nuclear powered ship and submarine, the USS Nautilus.
+</br>1958 The USS Nautilus, the first ship and submarine powered by a nuclear reactor, is commisioned. Marking the begging of the "Nuclear Navy". This was a major feat because at the time most nuclear reactors where the size of a city block, through his leadership it was compacted enough to fit into a submarine.
+</br>1978 Promoted to a full admiral
+</br>1982 Forced to retire after 63 years of service, he is the longest serving naval officer in history
+</br> To learn more about the father of the nuclear navy <a href="https://en.wikipedia.org/wiki/Hyman_G._Rickover">Click Here </a>
+        </ul>
+      
+      </body>
+    </div>
+  </div>
+</div>
